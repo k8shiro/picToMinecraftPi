@@ -1,0 +1,2 @@
+#py3minepi
+git+https://github.com/py3minepi/py3minepi
